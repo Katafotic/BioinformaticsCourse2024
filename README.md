@@ -27,4 +27,3 @@ cat datafile | run_task.sh -t task_name -i
 | :---: | :---: | :---: | :---: |
 | DNA | Counting DNA Nucleotides | :white_check_mark: | :white_check_mark: |
 | RNA | Transcribing DNA into RNA | :x: | :x: |
-
