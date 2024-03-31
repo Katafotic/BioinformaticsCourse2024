@@ -24,5 +24,5 @@ cat datafile | run_task.sh -t task_name -i
 ##### Статистика 
 
 | Problem id | Title | Python | R |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | DNA | Counting DNA Nucleotides | :white_check_mark: | :white_check_mark: |
