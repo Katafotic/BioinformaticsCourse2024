@@ -26,7 +26,7 @@ cat datafile | run_task.sh -t task_name -i
 ##### Статистика 
 
 | Problem id | Title | Soved |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | DNA | Counting DNA Nucleotides | :white_check_mark: |
 | RNA | Transcribing DNA into RNA | :white_check_mark: |
 | REVC | Complementing a Strand of DNA | :white_check_mark: |
