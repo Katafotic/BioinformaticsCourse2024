@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## /opt/Python/builds/miniconda3/condabin/conda activate biopython
+##alias python="/opt/Python/builds/miniconda3/envs/biopython/bin/python3"
+
 cd $(dirname $0)
 
 REPOSITORY_DIR="$PWD"
